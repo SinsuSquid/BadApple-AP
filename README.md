@@ -1,4 +1,4 @@
-# 🍎 Bad Apple!! — Multi-Scale Apollonian Particle Simulation
+# 🍎 [Bad Apple!! — Multi-Scale Apollonian Particle Simulation](https://youtu.be/6OdOjmtIa1g)
 
 A computational physics and materials science visual flex that renders the iconic [Bad Apple!!](https://www.youtube.com/watch?v=FtutLA63Cp8&list=RDFtutLA63Cp8&start_radio=1&pp=ygUJYmFkIGFwcGxloAcB) shadow art PV using 3D Euclidean Distance Transforms (EDT) and Multi-Scale Apollonian Sphere Packing exported as a parallelized LAMMPS trajectory (`.lammpstrj`) for real-time 30 FPS playback in OVITO.
 
